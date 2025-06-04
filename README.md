@@ -1,4 +1,4 @@
-# JKT48 Showroom Bot
+# JKT48 Live Notifier Discord Bot
 
 Bot notifikasi live JKT48 untuk Showroom dan IDN.
 
