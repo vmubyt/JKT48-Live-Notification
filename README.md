@@ -26,7 +26,6 @@ LIVE_SHOWROOM_ID=your_webhook_id
 LIVE_SHOWROOM_TOKEN=your_webhook_token
 IDN_LIVE_NOTIF_CHANNEL_ID=your_webhook_id
 IDN_LIVE_NOTIF_CHANNEL_TOKEN=your_webhook_token
-JKT48_SHOWROOM_WEB=https://www.jkt48showroom.com
 ```
 
 4. Jalankan bot:
